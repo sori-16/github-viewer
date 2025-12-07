@@ -207,8 +207,7 @@ Free to use for personal and commercial projects. No attribution required.
 ## 👨‍💻 Author
 
 **Soreti** - Full-Stack Android Developer
-- Portfolio: [your-portfolio-link](https://yourusername.github.io/portfolio)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [sori-16](https://github.com/sori-16)
 
 ## 🙏 Acknowledgments
 
@@ -223,7 +222,7 @@ Free to use for personal and commercial projects. No attribution required.
 
 Happy exploring! 🔍
 
-## 📸 Screenshots
+### [live check](https://visionary-pasca-49c307.netlify.app/)
 
 Try searching for:
 - `octocat` - GitHub's mascot account
